@@ -20,7 +20,7 @@ AWS
  
  
 3.)  https://olympus1.mygreatlearning.com/course_certificate/SVBKVGWJ    
-SQL 
+  Greatlearning : SQL With data science 
 
 
 4.)    https://trailblazer.me/id?uid=tiwary&cmty=trailhead
