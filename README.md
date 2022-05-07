@@ -2,8 +2,8 @@
 Reference Documents for Applications 
 
 
-                                                                            Annexure B(1)                                                                                                                                                                                                            Contact : tiwary.ankit@outlook.com
-Reference Links : 
+                                                                     Annexure B(1)                                                                                      Contact : tiwary.ankit@outlook.com
+Please refer to the below mentioned links in regard with my application : 
 
 Google Cloud Public Profile : (Badges)
 
