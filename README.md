@@ -27,5 +27,11 @@ SQL
 Salesforce Trailhead 
 
 
-5.) https://insidesherpa.s3.amazonaws.com/completion-certificates/Deloitte/FqFtWwQzNxJ8Qsh5H_Deloitte_2acbiq7YY2wCsrv9d_completion_certificate.pdf
-Forage (Deloitte Module)
+5.)
+https://insidesherpa.s3.amazonaws.com/completion-certificates/Deloitte/FqFtWwQzNxJ8Qsh5H_Deloitte_2acbiq7YY2wCsrv9d_completion_certificate.pdf
+                        Forage (Deloitte Module - 2020)
+
+6.)
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20USA/G7BF7EPuCNecw3Bb3_KPMG%20U.S._2acbiq7YY2wCsrv9d_1651911907529_completion_certificate.pdf
+
+KPMG Module - Carrer Catalyst Program May 7 ,22 
