@@ -48,10 +48,9 @@ Udemy : Tibco Spotfire  [Data Analytics,Visualisation] 2020
 8.) SkillUp by Simplilearn
 
 Git training :      https://simpli.app.link/vUHCp2ezjqb
-
+2021
 Data Analytics :    https://simpli.app.link/OOHHz8mzjqb
-
+2021
 Google cloud :      https://certificates.simplicdn.net/share/2647352_1625858313.pdf
 
-Business analytics : https://certificates.simplicdn.net/share/2629881_1623489436.pdf
 
