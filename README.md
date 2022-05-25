@@ -45,7 +45,13 @@ KPMG Module - Carrer Catalyst Program May 7 ,22
 
 Udemy : Tibco Spotfire  [Data Analytics,Visualisation] 2020
 
-8.) SkillUp by Simplilearn 
+8.) SkillUp by Simplilearn
+
 Git training :      https://simpli.app.link/vUHCp2ezjqb
+
 Data Analytics :    https://simpli.app.link/OOHHz8mzjqb
+
+Google cloud :      https://certificates.simplicdn.net/share/2647352_1625858313.pdf
+
+Business analytics : https://certificates.simplicdn.net/share/2629881_1623489436.pdf
 
