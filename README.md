@@ -51,7 +51,8 @@ Git training :     ( https://simpli.app.link/vUHCp2ezjqb  )
 2021
 ,Data Analytics :   ( https://simpli.app.link/OOHHz8mzjqb  )
 2021
-, Introduction to Google cloud :    (  https://certificates.simplicdn.net/share/2647352_1625858313.pdf  )
+, Introduction to Google cloud :    (  https://certificates.simplicdn.net/share/2647352_1625858313.pdf  ) , 
+BI Fundamentals (  https://simpli.app.link/dbPgh4Wrmqb  )
  
 9.)
 AI For India 2021 :  ( https://www.guvi.in/verify-certificate?id=1q16565hrg317I9167 )  [ 1q16565hrg317I9167 ]  , 
