@@ -57,7 +57,8 @@ BI Fundamentals (  https://simpli.app.link/dbPgh4Wrmqb  )
 9.)
 AI For India 2021 :  ( https://www.guvi.in/verify-certificate?id=1q16565hrg317I9167 )  [ 1q16565hrg317I9167 ]  , 
 
-( https://www.guvi.in/verify-certificate?id=B51ZLW1HAg969652y2 )  [B51ZLW1HAg969652y2]
+( https://www.guvi.in/verify-certificate?id=B51ZLW1HAg969652y2 )  [B51ZLW1HAg969652y2] , 
+( https://www.datacamp.com/statement-of-accomplishment/course/b27fee8b5839355faddae6ba23bfaf16e3faec5c )  SQL 2017
 
 
 
