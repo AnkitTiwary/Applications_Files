@@ -2,13 +2,14 @@
 Reference Documents for Applications: Technical 
 
 
-                                                                     Annexure B(1)                                                                                      Contact : tiwary.ankit@outlook.com
+                                                                    Annexure B(l)                                                                                      Contact : tiwary.ankit@outlook.com
 Please refer to the below mentioned links in regard with my application : 
 
 Google Cloud Public Profile : (8+ Badges)
-(Part of google cloud facillatator program May-June 22) , [Mentor : Vaishanavi,DTU]
+  [ GCFP 2022 Status : @quest1 , Mentor : Vaishanavi,DTU]
 
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
+___________________________________________________________________________________________________________________________________________
 
                                                                  Upskilling&Certifications : 
 1.) https://coursera.org/share/ff84aaef913de6fad229d19f5b8cc05b  
