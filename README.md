@@ -38,7 +38,8 @@ https://insidesherpa.s3.amazonaws.com/completion-certificates/Deloitte/FqFtWwQzN
 Forage (Deloitte Consulting Module - 2020)
 
 6.)
-https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20USA/G7BF7EPuCNecw3Bb3_KPMG%20U.S._2acbiq7YY2wCsrv9d_1651911907529_completion_certificate.pdf
+
+https://forage-uploads-prod.s3.amazonaws.com/completioncertificates/KPMG%20USA/G7BF7EPuCNecw3Bb3_KPMG%20U.S._2acbiq7YY2wCsrv9d_1651911907529_completion_certificate.pdf
 
 KPMG Module - Carrer Catalyst Program May 7 ,22 
 
