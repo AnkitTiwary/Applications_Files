@@ -9,6 +9,9 @@ Google Cloud Public Profile : (8+ Badges)
   [ GCFP 2022 Status : @quest1 , Mentor : Vaishanavi,DTU]
 
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
+
+---------------------------------------------------------------------------------
+MS Learn :     https://docs.microsoft.com/en-us/users/tiwaryankit-6890/
 ___________________________________________________________________________________________________________________________________________
 
                                                              Upskilling & Certifications : 
