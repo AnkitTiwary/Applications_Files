@@ -5,13 +5,14 @@ Reference Documents for Applications: Technical
                                                                     Annexure B(l)                                                                                      Contact : tiwary.ankit@outlook.com
 Please refer to the below mentioned links in regard with my application : 
 
-Google Cloud Public Profile : (8+ Badges)
+**Google Cloud Public Profile : (8+ Badges)
   [ GCFP 2022 Status : @quest1 , Mentor : Vaishanavi,DTU]
 
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
-
 ---------------------------------------------------------------------------------
-MS Learn :     https://docs.microsoft.com/en-us/users/tiwaryankit-6890/
+*Microsoft  :     https://docs.microsoft.com/en-us/users/tiwaryankit-6890/
+---------------------------------------------------------------------------------
+*Salesforce :  https://trailblazer.me/id?uid=tiwary&cmty=trailhead
 ___________________________________________________________________________________________________________________________________________
 
                                                              Upskilling & Certifications : 
@@ -32,7 +33,7 @@ Data analytics with AWS  [Cloud , Analytics]
 
 4.)    https://trailblazer.me/id?uid=tiwary&cmty=trailhead
 
-Salesforce Trailhead  - (Adventurer) 10k+ , 12+ Badges   
+Salesforce Trailhead  - (Mountaineer) 18000 Points, 34+ Badges   
 
 
 5.)
@@ -57,12 +58,14 @@ Git training :     ( https://simpli.app.link/vUHCp2ezjqb  )
 ,Data Analytics :   ( https://simpli.app.link/OOHHz8mzjqb  )
 2021
 , Introduction to Google cloud :    (  https://certificates.simplicdn.net/share/2647352_1625858313.pdf  ) , 
+ --------------------------------------------------------------------------------------------------------------------------------
 BI Fundamentals (  https://simpli.app.link/dbPgh4Wrmqb  )
  --------------------------------------------------------------------------------------------------------------------------------
 9.)
 AI For India 2021 :  ( https://www.guvi.in/verify-certificate?id=1q16565hrg317I9167 )  [ 1q16565hrg317I9167 ]  , 
 
 ( https://www.guvi.in/verify-certificate?id=B51ZLW1HAg969652y2 )  [B51ZLW1HAg969652y2] , 
+----------------------------------------------------------------------------------------------------------------------------
 ( https://www.datacamp.com/statement-of-accomplishment/course/b27fee8b5839355faddae6ba23bfaf16e3faec5c )  SQL 2017
 
 
