@@ -10,12 +10,14 @@ Please refer to the below mentioned links in regard with my application :
 
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
 ---------------------------------------------------------------------------------
-*Microsoft  :     https://docs.microsoft.com/en-us/users/tiwaryankit-6890/
+*Microsoft  :      https://docs.microsoft.com/en-us/users/tiwaryankit-6890/
 ---------------------------------------------------------------------------------
-*Salesforce :  https://trailblazer.me/id?uid=tiwary&cmty=trailhead
+*Salesforce :      https://trailblazer.me/id?uid=tiwary&cmty=trailhead
+---------------------------------------------------------------------------------
+*Fractal(Guiness):  https://www.credential.net/d2dff77f-6743-45a3-aac7-eab50aecce40#gs.eflw3c
 ___________________________________________________________________________________________________________________________________________
 
-                                                             Upskilling & Certifications : 
+                                                       Upskilling & Certifications : 
 1.) https://coursera.org/share/ff84aaef913de6fad229d19f5b8cc05b  
 
 Data analytics with AWS  [Cloud , Analytics]
@@ -53,19 +55,24 @@ Udemy : Tibco Spotfire  [Data Analytics,Visualisation] 2020
 
 8.) SkillUp by Simplilearn
 
-Git training :     ( https://simpli.app.link/vUHCp2ezjqb  )
-2021
-,Data Analytics :   ( https://simpli.app.link/OOHHz8mzjqb  )
-2021
-, Introduction to Google cloud :    (  https://certificates.simplicdn.net/share/2647352_1625858313.pdf  ) , 
+Git training :        https://simpli.app.link/vUHCp2ezjqb        | 2021
+
+,Data Analytics :    https://simpli.app.link/OOHHz8mzjqb       |2021
+, 
+Introduction to Google cloud :     https://certificates.simplicdn.net/share/2647352_1625858313.pdf   , 
  --------------------------------------------------------------------------------------------------------------------------------
-BI Fundamentals (  https://simpli.app.link/dbPgh4Wrmqb  )
+BI Fundamentals :     https://simpli.app.link/dbPgh4Wrmqb  
  --------------------------------------------------------------------------------------------------------------------------------
 9.)
-AI For India 2021 :  ( https://www.guvi.in/verify-certificate?id=1q16565hrg317I9167 )  [ 1q16565hrg317I9167 ]  , 
+AI For India 2021 :  
+
+( https://www.guvi.in/verify-certificate?id=1q16565hrg317I9167 )  [ 1q16565hrg317I9167 ] 
+--------------------------------------------------------------------------------------------------------------------------------
+10.) 
 
 ( https://www.guvi.in/verify-certificate?id=B51ZLW1HAg969652y2 )  [B51ZLW1HAg969652y2] , 
 ----------------------------------------------------------------------------------------------------------------------------
+
 ( https://www.datacamp.com/statement-of-accomplishment/course/b27fee8b5839355faddae6ba23bfaf16e3faec5c )  SQL 2017
 
 
