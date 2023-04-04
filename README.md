@@ -5,8 +5,8 @@ Reference Documents for Applications: Technical
                                                                     Annexure B(l)                                                                                      Contact : tiwary.ankit@outlook.com
 Please refer to the below mentioned links in regard with my application : 
 
-**Google Cloud Public Profile : (12 Badges)
-  [ GCFP 2022 Status : @quest1 , PFB Vedio attempt links(Point 11)] 
+*Google Cloud Public Profile : (12 Badges)
+ |[ GCFP 2022 Status : @quest1 , PFB Vedio attempt links(Point 11)] 
 
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
 ---------------------------------------------------------------------------------
@@ -17,7 +17,7 @@ https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695
 *Fractal(Guiness):  https://www.credential.net/d2dff77f-6743-45a3-aac7-eab50aecce40#gs.eflw3c
 ___________________________________________________________________________________________________________________________________________
 
-                                                       Upskilling & Certifications : 
+                                                       Upskilling & Online Courses Links: 
 1.) https://coursera.org/share/ff84aaef913de6fad229d19f5b8cc05b  
 
 Data analytics with AWS  [Cloud , Analytics]
