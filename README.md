@@ -76,4 +76,19 @@ AI For India 2021 :
 ( https://www.datacamp.com/statement-of-accomplishment/course/b27fee8b5839355faddae6ba23bfaf16e3faec5c )  SQL 2017
 
 
+11.)  Youtube Link : My Qwiklabs Attempt [Google cloud Hero Challenge April 2023]  (Private Vedio - 1:1)
+
+ 
+a)  https://youtu.be/_RsdVNWchtU        |Introduction to SQL using Bigquery Qwiklab|
+
+
+b)  https://youtu.be/6a3JiYjywck        | Ecommerce Dataset Badge Qwiklab|
+
+
+c)  https://youtu.be/-W-q7YA1Xyc        | ML API skills Badge Qwiklab|
+
+
+d)  https://youtu.be/-W-q7YA1Xyc        | Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API Lab
+
+
 
