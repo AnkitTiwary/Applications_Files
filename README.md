@@ -6,9 +6,11 @@ Reference Documents for Applications: Technical
 Please refer to the below mentioned links in regard with my application : 
 
 *Google Cloud Public Profile : (12 Badges)
- |[ GCFP 2022 Status : @quest1 , PFB Vedio attempt links(Point 9)] 
+ |[ GCFP 2022 Status : @quest1 , PFB Vedio attempt links(Point 9)], Google cloud certificate Link
 
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
+---------------------------------------------------------------------------------
+https://www.credential.net/d11d59d7-8565-4e3a-a219-7c7697105e35
 ---------------------------------------------------------------------------------
 *Microsoft  :      https://docs.microsoft.com/en-us/users/tiwaryankit-6890/
 ---------------------------------------------------------------------------------
