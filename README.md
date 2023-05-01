@@ -63,15 +63,12 @@ Udemy : Tibco Spotfire  [Data Analytics,Visualisation] 2020
 
 7.) SkillUp by Simplilearn
 
-Git training :        https://simpli.app.link/vUHCp2ezjqb       | 2021
---------------------------------------------------------------------------------------------------------------------------------
-Data Analytics :    https://simpli.app.link/OOHHz8mzjqb       |2021
- --------------------------------------------------------------------------------------------------------------------------------
-8.)AI For India 2021 :  
+Git training :         https://simpli.app.link/vUHCp2ezjqb       
+Data Analytics :       https://simpli.app.link/OOHHz8mzjqb   
 
-( https://www.guvi.in/verify-certificate?id=1q16565hrg317I9167 )  [ 1q16565hrg317I9167 ] 
---------------------------------------------------------------------------------------------------------------------------------
-( https://www.datacamp.com/statement-of-accomplishment/course/b27fee8b5839355faddae6ba23bfaf16e3faec5c )  SQL 2017
+8.) IBM : Project Management Fundamentals (Apr 23)
+
+https://www.credly.com/badges/98261b4f-d2e0-4339-b65c-b3edd83a4524/public_url
 
 9.)**Youtube Link : My Qwiklabs Attempt Submission [Google cloud Hero Challenge April 2023]  (Private Vedio - 1:1 | Apr 23)
 
