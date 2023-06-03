@@ -5,7 +5,7 @@ Reference Documents for Applications: Technical
                                                                     Annexure B(l)                                                                                      Contact : tiwary.ankit@outlook.com
 Please refer to the below mentioned links in regard with my application : 
 
-*Google Cloud Public Profile : (12 Badges)
+*Google Cloud Public Profile : (20 Badges)
  |[GCFP 2022] |Google cloud certificate Link - 
 ---------------------------------------------------------------------------------
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
