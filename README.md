@@ -2,7 +2,7 @@
 Reference Documents for Applications: Technical 
 
 
-                                                                    Annexure B(l)                                                                                      Contact : tiwary.ankit@outlook.com
+                                                                    Links Annexure B(l)                                                                                      
 Please refer to the below mentioned links in regard with my application : 
 
 *Google Cloud Public Profile : (18+ Badges)
@@ -55,11 +55,11 @@ Salesforce Trailhead  - (Mountaineer) 18000 Points, 34+ Badges  -2023
 5.)
 https://insidesherpa.s3.amazonaws.com/completion-certificates/Deloitte/FqFtWwQzNxJ8Qsh5H_Deloitte_2acbiq7YY2wCsrv9d_completion_certificate.pdf
       
-Forage (Deloitte Consulting Module - 2020)
+Forage (Big 4 - Deloitte Consulting Module - 2020)
 
 6.) https://www.udemy.com/certificate/UC-c5d9781d-242d-423a-a55b-e0613a849299/  
 
-Udemy : Tibco Spotfire  [Data Analytics,Visualisation] 2020
+Udemy : Tibco Spotfire 2020
 
 7.) SkillUp by Simplilearn
 
