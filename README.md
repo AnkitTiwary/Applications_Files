@@ -6,7 +6,7 @@ Reference Documents for Applications: Technical
 Please refer to the below mentioned links in regard with my application : 
 
 *Google Cloud Public Profile : (18+ Badges)
- |[GCFP 2023] |Google cloud certificate Link - 
+ |[GCFP 2023] |Google cloud Public Profile Link - 
 ---------------------------------------------------------------------------------
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
 ---------------------------------------------------------------------------------
@@ -24,9 +24,9 @@ https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695
 ---------------------------------------------------------------------------------
 IBM (Apr 23):  
 ---------------------------------------------------------------------------------
- 1.)          https://www.credly.com/badges/302bcd60-e67e-4079-b37c-2e4830fb05cc/public_url       
+    https://www.credly.com/badges/302bcd60-e67e-4079-b37c-2e4830fb05cc/public_url       
 ---------------------------------------------------------------------------------
- 2.)          https://www.credly.com/badges/d53b82a8-4183-41a3-bc4e-4fc53a25ccd4/public_url
+    https://www.credly.com/badges/d53b82a8-4183-41a3-bc4e-4fc53a25ccd4/public_url
 ---------------------------------------------------------------------------------
 
 Tableau Public (2023)
