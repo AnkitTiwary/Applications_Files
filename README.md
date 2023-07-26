@@ -29,7 +29,7 @@ IBM (Apr 23):
  2.)          https://www.credly.com/badges/d53b82a8-4183-41a3-bc4e-4fc53a25ccd4/public_url
 ---------------------------------------------------------------------------------
 
-Tableau Project (2023)
+Tableau Public (2023)
 ---------------------------------------------------------------------------------
 https://public.tableau.com/views/Dashboard_Superstore_Project/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
