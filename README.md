@@ -6,7 +6,7 @@ Reference Documents for Applications: Technical
 Please refer to the below mentioned links in regard with my application : 
 
 *Google Cloud Public Profile : (18+ Badges)
- |[GCFP 2022] |Google cloud certificate Link - 
+ |[GCFP 2023] |Google cloud certificate Link - 
 ---------------------------------------------------------------------------------
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
 ---------------------------------------------------------------------------------
@@ -28,6 +28,13 @@ IBM (Apr 23):
 ---------------------------------------------------------------------------------
  2.)          https://www.credly.com/badges/d53b82a8-4183-41a3-bc4e-4fc53a25ccd4/public_url
 ---------------------------------------------------------------------------------
+
+Tableau Project (2023)
+---------------------------------------------------------------------------------
+https://public.tableau.com/views/Dashboard_Superstore_Project/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+---------------------------------------------------------------------------------
+
   *Fractal 1729:  https://www.credential.net/d2dff77f-6743-45a3-aac7-eab50aecce40#gs.eflw3c
 ___________________________________________________________________________________________________________________________________________
 
