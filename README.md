@@ -30,10 +30,10 @@ Tableau Public (2023)
 https://public.tableau.com/views/Dashboard_Superstore_Project/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ---------------------------------------------------------------------------------
-Power BI Project (Aug 2023)
-
+Power BI - Service Link (Aug 2023)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://app.powerbi.com/view?r=eyJrIjoiOWU4YjExNWItNmVkOS00ZmVlLTk5OWQtZmExZDRiNDllN2I5IiwidCI6ImFiZWQxYzc0LTZiMDAtNDhiMi05NzQ4LTZkYzQ2ZjMxOTZiMCIsImMiOjEwfQ%3D%3D
----------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   *Fractal 1729:  https://www.credential.net/d2dff77f-6743-45a3-aac7-eab50aecce40#gs.eflw3c
 ___________________________________________________________________________________________________________________________________________
