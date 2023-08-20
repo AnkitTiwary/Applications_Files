@@ -31,12 +31,12 @@ IBM (Apr 23):
     https://www.credly.com/badges/d53b82a8-4183-41a3-bc4e-4fc53a25ccd4/public_url
 ---------------------------------------------------------------------------------
 
-Tableau Public ( July 2023)
+Tableau Public Link
 ---------------------------------------------------------------------------------
 https://public.tableau.com/views/Dashboard_Superstore_Project/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ---------------------------------------------------------------------------------
-Power - BI Service Link (Aug 2023)
+Power - BI Service Link 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 https://app.powerbi.com/view?r=eyJrIjoiOWU4YjExNWItNmVkOS00ZmVlLTk5OWQtZmExZDRiNDllN2I5IiwidCI6ImFiZWQxYzc0LTZiMDAtNDhiMi05NzQ4LTZkYzQ2ZjMxOTZiMCIsImMiOjEwfQ%3D%3D
