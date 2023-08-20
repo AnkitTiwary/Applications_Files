@@ -7,16 +7,22 @@ Please refer to the below mentioned links in regard with my application :
 
 *Google Cloud Public Profile : (18+ Badges)
  |[GCFP 2023] |Google cloud Public Profile Link - 
+ 
 ---------------------------------------------------------------------------------
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
+
 ---------------------------------------------------------------------------------
   *GCP Series(Apr,23) :
 --------------------------------------------------------------------------------- 
+
   https://www.credential.net/d11d59d7-8565-4e3a-a219-7c7697105e35
+  
 ---------------------------------------------------------------------------------
   Microsoft(Apr,23)  : 
+  
 ---------------------------------------------------------------------------------
   https://docs.microsoft.com/en-us/users/tiwaryankit-6890/
+  
 ---------------------------------------------------------------------------------
 IBM (Apr 23):  
 ---------------------------------------------------------------------------------
@@ -25,12 +31,12 @@ IBM (Apr 23):
     https://www.credly.com/badges/d53b82a8-4183-41a3-bc4e-4fc53a25ccd4/public_url
 ---------------------------------------------------------------------------------
 
-Tableau Public (2023)
+Tableau Public ( July 2023)
 ---------------------------------------------------------------------------------
 https://public.tableau.com/views/Dashboard_Superstore_Project/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ---------------------------------------------------------------------------------
-Power BI - Service Link (Aug 2023)
+Power - BI Service Link (Aug 2023)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 https://app.powerbi.com/view?r=eyJrIjoiOWU4YjExNWItNmVkOS00ZmVlLTk5OWQtZmExZDRiNDllN2I5IiwidCI6ImFiZWQxYzc0LTZiMDAtNDhiMi05NzQ4LTZkYzQ2ZjMxOTZiMCIsImMiOjEwfQ%3D%3D
@@ -69,15 +75,21 @@ Salesforce Trailhead  - (Mountaineer) 18000 Points, 34+ Badges  -2023
 https://insidesherpa.s3.amazonaws.com/completion-certificates/Deloitte/FqFtWwQzNxJ8Qsh5H_Deloitte_2acbiq7YY2wCsrv9d_completion_certificate.pdf
       
 Forage (Big 4 - Deloitte Consulting Module - 2020)
+
 ---------------------------------------------------------------------------------
 6.) https://www.udemy.com/certificate/UC-c5d9781d-242d-423a-a55b-e0613a849299/  
 
 Udemy : Tibco Spotfire 2020
+
 ---------------------------------------------------------------------------------
 7.) SkillUp by Simplilearn
 
-Git training :         https://simpli.app.link/vUHCp2ezjqb       
+Git training :         https://simpli.app.link/vUHCp2ezjqb   
+
+---------------------------------------------------------------------------------
+
 Data Analytics :       https://simpli.app.link/OOHHz8mzjqb   
+
 ---------------------------------------------------------------------------------
 8.) IBM : Project Management Fundamentals (Apr 23)
 
