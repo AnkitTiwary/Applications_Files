@@ -12,12 +12,15 @@ Please refer to the below mentioned links in regard with my application :
 https://www.cloudskillsboost.google/public_profiles/fa2eeeff-2935-430e-b5dc-3695b1abea35
 
 ---------------------------------------------------------------------------------
-  *GCP Series(Apr,23) :
+  *GCP Series(Apr/Nov,23) :
 --------------------------------------------------------------------------------- 
 
   https://www.credential.net/d11d59d7-8565-4e3a-a219-7c7697105e35
   
 ---------------------------------------------------------------------------------
+  https://www.credential.net/3ebb3196-9757-4748-afe9-9c177ccfa77e#gs.27csfr
+
+  -------------------------------------------------------------------------------
   Microsoft(Apr,23)  : 
   
 ---------------------------------------------------------------------------------
@@ -36,7 +39,7 @@ Tableau Public Link
 https://public.tableau.com/views/Dashboard_Superstore_Project/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ---------------------------------------------------------------------------------
-Power - BI Service Link 
+Power - BI Report Link [Public dataset]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 https://app.powerbi.com/view?r=eyJrIjoiOWU4YjExNWItNmVkOS00ZmVlLTk5OWQtZmExZDRiNDllN2I5IiwidCI6ImFiZWQxYzc0LTZiMDAtNDhiMi05NzQ4LTZkYzQ2ZjMxOTZiMCIsImMiOjEwfQ%3D%3D
