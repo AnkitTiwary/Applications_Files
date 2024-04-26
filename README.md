@@ -117,6 +117,27 @@ c)  https://youtu.be/-W-q7YA1Xyc        | ML API skills Badge Qwiklab|
 d)  https://youtu.be/-W-q7YA1Xyc        | Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API Lab
 
 ---------------------------------------------------------------------------------
+     9.1 Skill badge :
+
+https://www.credly.com/badges/b9309b9f-114d-42d7-8ff6-97f272d1faab/public_url
+
+---------------------------------------------------------------------------------
+      9.2 Skill badge :
+
+https://www.credly.com/badges/7756a369-1158-4a72-8d75-ac90184ecae9/public_url
+
+
+---------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------
 
 
 
